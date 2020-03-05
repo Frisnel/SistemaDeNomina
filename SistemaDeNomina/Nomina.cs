@@ -329,6 +329,7 @@ namespace SistemaDeNomina
                     TxtDinero.Clear();
                     TxtDinero.Focus();
                     return false;
+                    //aren
                 }
             }
             return true;
