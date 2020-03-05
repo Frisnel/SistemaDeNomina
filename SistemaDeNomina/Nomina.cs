@@ -285,7 +285,7 @@ namespace SistemaDeNomina
         {
             BtnConvertidor.Visible = false;
         }
-
+        //Nuevos cambios
         private void Cerrar_Click(object sender, EventArgs e)
         {
             BtnConvertidor.Visible = true;
